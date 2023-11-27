@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity"
+    },
+    "description": "Store a dynamic date variable in Bubble's workflows with \"Result of step...\" using this plugin. Simply enter a date into at this step and you can use that date on subsequent steps in your workflow without having to recalculate or re-enter the value.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1658847101418x939753803634765200/icons8-date.svg",
+    "license": "open_source",
+    "name": "Date Variable"
+}

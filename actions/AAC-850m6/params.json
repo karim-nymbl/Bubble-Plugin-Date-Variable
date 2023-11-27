@@ -1,0 +1,22 @@
+{
+    "category": "plugins",
+    "display": "Store a Date Variable",
+    "fields": {
+        "AAD": {
+            "caption": "date",
+            "editor": "DynamicValue",
+            "name": "date",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "return_value": {
+        "AAE": {
+            "caption": "date",
+            "name": "date",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "type": "server_side"
+}
